@@ -29,7 +29,14 @@
                     "sub_category": [
                         "PLT_First Officer"
                     ]
-                }
+                  },
+                  {
+                    "category": "UAE Nationals",
+                    "sub_category": [
+                      "UAEN_Graduate Training Programmes",
+                      "UAEN_High School Graduate Roles"
+                    ]
+                  }
             ]
         },
         {
